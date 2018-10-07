@@ -63,3 +63,8 @@
 5. 드론서비스
 - 회사를 고를때 성장해서 투자받은 회사, 내 서비스를 가지고 클라이언트를 만나는 회사가 좋음
 - LTS(long term support) : 오랫동안 지원한 안정적인 버전의 서비스
+- MEAN(Mongodb Express Angular Node) 스택 개발자
+  - mongodb : DB
+  - express : front 프레임워크
+  - angular : back 프레임워크
+  - node : 서버
