@@ -117,6 +117,7 @@ console.log(a.x + a.y);  // 30
 
 ### 웹서버 설치
 - 응답이 없으면 무한루프에 빠짐
+
 app.js
 ```
 var http = require('http');
@@ -167,6 +168,7 @@ supervisor *.js
 ## express
 - [express npm](https://www.npmjs.com/package/express) : 앱스토어와 같은 개념
 - app.js는 javascript로 개발하는 느낌 server.js는 jquery로 개발하는 느낌
+
 server.js
 ```
 npm install express --save
@@ -293,6 +295,7 @@ app.get('/', (req,res)=>{
 - 확장자는 ejs
 - 열고 닫을 때 <% %> 를 이용
 - 반드시 views 폴더에 파일을 넣을 것
+
 views/index.ejs
 ```
 <html>
@@ -316,6 +319,7 @@ views/index.ejs
 </html>
 ```
 > css 위치도 public으로 루트경로가 적용되어 모든 정적파일의 루트경로가 됨
+
 public/style.css
 ```
 h1 { color:red; }
