@@ -67,3 +67,4 @@
 - LTS(long term support) : 오랫동안 지원한 안정적인 버전의 서비스
 - MEAN(Mongodb Express Angular Node) 스택 개발자
 > mongodb : DB / express : front 프레임워크 / angular : back 프레임워크 / node : 서버
+- 남들이 안하는 언어를 하면 돈을 많이 벌 수 있음
