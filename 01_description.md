@@ -53,6 +53,8 @@
 - react native
 - python
 - MVC(model vue controller)
+- path에 대한 이해
+- 터미널
 
 ### TIP - 기타
 - 스타트업 회사를 고를때 좋은분야
