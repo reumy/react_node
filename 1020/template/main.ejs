@@ -1,0 +1,16 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+  <h1>hello world</h1>
+  <form action="/add" method="POST">
+    <input type="text" name="title" />
+    <button type="submit">입력</button>
+  </form>
+  <% for (var i=0; i<result.length; i++){ %>
+  <h2><%=result[i].title %></h2>
+  <% } %>
+</body>
+</html>
