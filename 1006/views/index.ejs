@@ -1,0 +1,16 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body>
+  <h1><%= title %></h1>
+  <% for(var i = 0; i < 3; i++) { %>
+    <% if ( i != 1 ) { %>
+      <div><%= i %></div>
+    <% } %>
+  <% } %>
+  <a href="/blog">블로그 이동</a>
+</body>
+</html>
